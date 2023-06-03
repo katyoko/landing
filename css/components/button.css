@@ -1,0 +1,63 @@
+.btn-medium{
+  padding: 16px 48px;
+  background: rgba(25, 25, 25, 1);
+  border-color: rgba(25, 25, 25, 1);
+  width: 213px;
+  color:#FFFFFF;
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  margin: 0;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 99em;
+}
+
+.btn-medium:hover{
+  background: #000000;
+}
+
+.btn-treehouse{
+  background-color: #40484a;
+    border-color: #40484a;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-width: 172px;
+    padding: 16 32px;
+    line-height: 43px;
+    border-radius: 4px;
+}
+
+.btn-yours{
+    box-sizing: border-box;
+    cursor: pointer;
+    vertical-align: middle;
+    text-align: center;
+    text-transform: none;
+    transition-property: background-color, box-shadow, border-color, color;
+    transition-delay: 0ms;
+    font-weight: 500;
+    font-family: "Gotham Rounded A", "Gotham Rounded B", "Gotham Rounded", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    transition-duration: 200ms;
+    color: #f0ffff;
+    background-color: #5840ff;
+    width: 18.75rem;
+    margin: 0px;
+    text-decoration: none;
+    border-radius: .5rem;
+    padding: 1rem 1.25rem;
+}
+
+.btn-yours:hover,
+.btn-yoursfocus {
+  background-color: #b27afc;
+}
+
+.banner .container .btn-medium {
+  margin-top: 48px;
+}
